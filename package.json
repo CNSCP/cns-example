@@ -1,6 +1,6 @@
 {
   "name": "cns-example",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CNS SDK Example",
   "main": "index.js",
   "scripts": {
@@ -23,6 +23,8 @@
   },
   "homepage": "https://github.com/CNSCP/cns-example#readme",
   "dependencies": {
-    "cns-sdk": "^1.0.0"
+    "cns-interface": "^1.0.1",
+    "cns-padi": "^1.0.1",
+    "cns-sdk": "^1.0.1"
   }
 }
